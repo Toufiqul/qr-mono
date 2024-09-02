@@ -1,0 +1,4 @@
+
+> server@1.0.0 build /home/kevo/Documents/qr-mono/apps/server
+> tsc || exit 0
+

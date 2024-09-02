@@ -1,0 +1,21 @@
+{
+  "name": "qr-mono",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "turbo": "1.10.16"
+  },
+  "dependencies": {
+    "prettier": "3.2.2"
+  },
+  "scripts": {
+    "dev": "turbo run dev",
+    "build": "turbo run build",
+    "start": "turbo run start"
+  },
+  "volta": {
+    "node": "20.12.2"
+  }
+}
